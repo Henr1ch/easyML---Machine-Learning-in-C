@@ -19,6 +19,7 @@ easyML is a simple machine learning implementation in C, focusing on the k-Neare
 
 
 ⚙️ Technologies Used
+
 C Programming (structs, arrays, functions, file I/O)
 Machine Learning Fundamentals (k-NN algorithm)
 Algorithmic Distance Metrics (Euclidean, Hamming, Jaccard)
@@ -26,6 +27,7 @@ Version Control (Git, GitHub/GitLab)
 Makefile (for streamlined compilation)
 
 🚀 How It Works
+
 Reads a dataset of 100 animals with 16 features each.
 Computes distance metrics between data points.
 Finds the k-nearest neighbors and predicts the class of a new sample.
