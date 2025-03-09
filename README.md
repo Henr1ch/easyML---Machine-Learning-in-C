@@ -1,4 +1,5 @@
 easyML - Machine Learning in C
+
 📌 Project Overview
 easyML is a simple machine learning implementation in C, focusing on the k-Nearest Neighbors (k-NN) algorithm to classify animals based on their features. The project processes a dataset of 100 animals, applies similarity measures, and predicts the class of new data points. This project was developed as part of a university programming assignment and demonstrates structs, file handling, algorithmic logic, and data classification techniques in C.
 
