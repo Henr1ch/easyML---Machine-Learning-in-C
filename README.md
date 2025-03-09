@@ -24,6 +24,7 @@ Machine Learning Fundamentals (k-NN algorithm)
 Algorithmic Distance Metrics (Euclidean, Hamming, Jaccard)
 Version Control (Git, GitHub/GitLab)
 Makefile (for streamlined compilation)
+
 🚀 How It Works
 Reads a dataset of 100 animals with 16 features each.
 Computes distance metrics between data points.
