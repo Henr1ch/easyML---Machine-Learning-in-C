@@ -109,6 +109,7 @@ void findKNearestNeighbors(struct Animal dataZoo[NUM_SAMPLES],
 
     // Determine sort order: ascending (1) for Euclidiean/Hamming, descending (0) for Jaccard
     int sortOrder = 1;
+    int n = 1;
 
     for (int i = 0; i < NUM_SAMPLES; i++) {
         // Compute all 3 distances for each data row
